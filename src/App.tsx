@@ -1,11 +1,7 @@
-import "./App.css";
+import Scroll from "./components/Scroll";
 
 const App = () => {
-  return (
-    <div>
-      <h3>2023.12.21!</h3>
-    </div>
-  );
+  return <Scroll />;
 };
 
 export default App;
