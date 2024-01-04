@@ -37,5 +37,6 @@ module.exports = {
         unnamedComponents: "arrow-function",
       },
     ],
+    "react/button-has-type": "off",
   },
 };
