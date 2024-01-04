@@ -1,7 +1,8 @@
-import Scroll from "./components/Scroll";
+// import Scroll from "./components/Scroll";
+import List from "./components/List";
 
 const App = () => {
-  return <Scroll />;
+  return <List />;
 };
 
 export default App;
